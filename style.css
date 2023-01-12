@@ -48,9 +48,9 @@ h3{
 
 .top-cloud{
     position: absolute;
-    width: 100px;
-    height: 100px;
-    right: 10%;
+    width: 9%;
+    height: 20%;
+    right: 5%;
     top: 50px;
     
 
@@ -58,10 +58,10 @@ h3{
 
 .bottom-cloud {
     position: absolute;
-    width: 100px;
-    height: 100px;
-    left: 10%;
-    bottom: 75px;
+    width: 9%;
+    height: 20%;
+    left: 8%;
+    bottom: 5%;
 
 }
 
@@ -158,5 +158,5 @@ hr {
     border: 8px dotted rgb(198, 197, 197);
     border-style: none none dotted; 
     color:rgb(198, 197, 197); 
-    width: 3%;
+    width: 8%;
 }
